@@ -1,0 +1,14 @@
+.streamlit/secrets.toml
+
+venv/
+env/
+
+*.sqlite3
+*.sqlite
+*.db
+*.db3
+
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
